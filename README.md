@@ -9,6 +9,8 @@ This repository tracks two implementations:
 
 The current active build path is the Expo app.
 
-![App Screenshot](images/FairwaysIQ (1).png)
+## Screenshots
 
-![App Screenshot](images/FairwaysIQ (2).png)
+<img src="images/FairwaysIQ (1).png" alt="Project screenshot" width="700">
+
+<img src="images/FairwaysIQ (2).png" alt="Project screenshot" width="700">
